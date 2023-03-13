@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "modulo3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

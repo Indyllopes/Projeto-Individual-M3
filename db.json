@@ -1,0 +1,71 @@
+{
+  "Bestseller": [
+    {
+      "titulo": "HP",
+      "ano": "1997",
+      "autor": "JK Rowling",
+      "capa_dura": false,
+      "id": 1
+    },
+    {
+      "titulo": "Senhor dos Anéis",
+      "ano": "1954",
+      "autor": "JRR Tolkien",
+      "capa_dura": true,
+      "id": 2
+    },
+    {
+      "titulo": "GOT",
+      "ano": "1996",
+      "autor": "George RR Martin",
+      "capa_dura": true,
+      "id": 3
+    }
+  ],
+  "Romance": [
+    {
+      "titulo": "Wuthering Heights",
+      "ano": "1847",
+      "autor": "Emily Brontë",
+      "capa_dura": false,
+      "id": 1
+    },
+    {
+      "titulo": "A culpa é das estrelas",
+      "ano": "2014",
+      "autor": "Green, John",
+      "capa_dura": true,
+      "id": 2
+    },
+    {
+      "titulo": "Verity",
+      "ano": "2019",
+      "autor": "Colleen Hoover",
+      "capa_dura": true,
+      "id": 3
+    }
+  ],
+  "Programação": [
+    {
+      "titulo": "Código limpo",
+      "ano": "2009",
+      "autor": "Robert C. Martin",
+      "capa_dura": false,
+      "id": 1
+    },
+    {
+      "titulo": "Algoritmos: Teoria e Prática",
+      "ano": "2012",
+      "autor": "Thomas Thomas Cormen",
+      "capa_dura": true,
+      "id": 2
+    },
+    {
+      "titulo": "Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes",
+      "ano": "2019",
+      "autor": "Nilo Ney Coutinho Menezes",
+      "capa_dura": true,
+      "id": 3
+    }
+  ]
+}
